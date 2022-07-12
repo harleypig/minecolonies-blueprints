@@ -1,0 +1,42 @@
+x - done
+- - needs work
+
+https://docs.google.com/spreadsheets/d/1S3jBzfy_PtJhQI_5jFIN3lXBiUEMebt_rT2x5os2MYw/edit#gid=104058438
+
+https://minecraft.fandom.com/wiki/Farming
+https://www.thegamer.com/minecraft-best-farms-xp/
+https://fictionhorizon.com/25-best-automatic-xp-farms-in-minecraft/
+https://worldfoodtourismsummit.com/articles/minecraft-best-farms
+https://www.gamepur.com/guides/the-best-essential-farms-in-minecraft
+https://www.youtube.com/watch?v=e22xaklGZhY
+https://www.youtube.com/watch?v=KSwboUdrx94
+https://www.youtube.com/watch?v=pdDIrU4CdnU
+
+[-] Glow Ink
+[-] Kelp
+[ ] Bee
+[ ] Blaze
+[ ] Chorus Fruit
+[ ] Crop (Wheat, Carrot, Potato, other crops?)
+[ ] Drowned
+[ ] Enderman
+[ ] Flower
+[ ] Gold
+[ ] Guardian
+[ ] Ink
+[ ] Iron
+[ ] Melon (Pumpkin)
+[ ] Mushroom
+[ ] Nether Wart
+[ ] Pillager
+[ ] Slime
+[ ] Spawner
+[ ] Spider
+[ ] Vine
+[x] Bamboo
+[x] Cactus
+[x] Dripstone
+[x] Meat (Cow, Pig, Chicken, Sheep, ...)
+[x] Sugar Cane
+[x] Turtle
+[x] Wool
